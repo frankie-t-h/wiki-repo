@@ -15,7 +15,7 @@ Github simplified its markup a language and in the next tutorial we will show yo
 
 This wiki contains the following informations:
 
-1. [How to create a repo]()
+1. [How to create a repo](https://github.com/frankie-t-h/wiki-repo/blob/paola's_Branch/HowToCreateARepo.md)
 2. [How to create a wiki]()
 3. [How to add pages to your wiki]()
 4. [Demo](https://github.com/frankie-t-h/wiki-repo/wiki)

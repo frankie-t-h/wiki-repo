@@ -1,10 +1,10 @@
 # wiki-repo
 
-This repository has been created with the aim to be used as a guide on how to build a repo for a wiki project on Github.
+This repository has been created with the aim to guide you building a repo for a wiki project on Github.
 
-Github is a platform opensourrce where you can keep your project or as in this case a documentation using **wiki pages**.
+Github is a platform opensource where you can keep your projects or as in this case a documentation using **wiki pages**.
 
-Wiki pages are like single pages are like the pages of a book collected in the same wiki like a virtual folder.
+Wiki pages are like single pages, similar to the pages of a book collected in the same wiki like a virtual folder.
 
 Github browser version "render pages written in markup language". A markup language is a computer language that uses tags to define elements within a document. 
 It is human-readable, meaning markup files contain standard words, rather than typical programming syntax.The two most popular are HTML and XML.

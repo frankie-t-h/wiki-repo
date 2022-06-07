@@ -21,4 +21,5 @@ at this stage you can add a one line description, chose between public or privat
 Once filled all the required fields click on **create repository**
 
 ![Gif Congratulations](https://media.giphy.com/media/1O1UUSESiuGSi1VdT6/giphy.gif)
-your repository is ready to create your wiki now.
+
+Your repository is ready for your wiki now!
